@@ -1,8 +1,8 @@
 {
-    "title": "Creative",
-    "name": "startbootstrap-creative",
+    "title": "Portfolio",
+    "name": "CamMalloy",
     "version": "4.0.0",
-    "description": "Creative is a stylish one page HTML theme for Bootstrap.",
+    "description": "Personal portfolio site for Cameron Malloy",
     "keywords": [
         "css",
         "sass",
@@ -12,18 +12,13 @@
         "template"
     ],
     "homepage": "https://startbootstrap.com/template-overviews/creative",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative/issues",
-        "email": "feedback@startbootstrap.com"
-    },
-    "license": "MIT",
-    "author": "Start Bootstrap",
+    "author": "ccm36",
     "contributors": [
-        "David Miller (http://davidmiller.io/)"
+        "Cameron Malloy (ccm36)"
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-creative.git"
+        "url": "https://github.com/ccm36/portfolio"
     },
     "dependencies": {
         "bootstrap": "4.0.0",
