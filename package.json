@@ -3,15 +3,7 @@
     "name": "CamMalloy",
     "version": "4.0.0",
     "description": "Personal portfolio site for Cameron Malloy",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "https://startbootstrap.com/template-overviews/creative",
+    "homepage": "https://cammalloy.com",
     "author": "ccm36",
     "contributors": [
         "Cameron Malloy (ccm36)"
